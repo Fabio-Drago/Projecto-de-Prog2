@@ -4,10 +4,12 @@ Projecto desenvolvido para a unidade curricular de Programação II.
 Sistema em consola para gestão de clientes, viaturas e alugueres, implementado em Java.
  
 ## Funcionalidades do projecto
- 
+
+- Sistema de login (Admin e Cliente)
 - Registo e listagem de clientes
 - Registo e listagem de viaturas
 - Realização e devolução de alugueres
+- Histórico de alugueres
 - Persistência de dados em ficheiros de texto
 
 ## Como executar o projecto
