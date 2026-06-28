@@ -1,0 +1,14 @@
+
+=======================================================
+          RELATÓRIO GERAL DO SISTEMA
+
+=======================================================
+  Clientes registados  : 5
+  Carros registados    : 5
+  Carros disponíveis   : 5
+  Carros alugados      : 0
+  Alugueres activos    : 0
+  Alugueres concluídos : 1
+  Receita total        : 22 000 Kz
+
+=======================================================

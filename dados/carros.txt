@@ -1,0 +1,5 @@
+ID:1|Marca:Toyota|Modelo:Yaris|Ano:2022|Categoria:ECONOMICO|Disponivel:true|PrecoPorDia:22000.0
+ID:2|Marca:Volkswagen|Modelo:Golf|Ano:2023|Categoria:COMPACTO|Disponivel:true|PrecoPorDia:38000.0
+ID:3|Marca:Toyota|Modelo:Corolla|Ano:2023|Categoria:BERLINA|Disponivel:true|PrecoPorDia:48000.0
+ID:4|Marca:Ford|Modelo:Explorer|Ano:2024|Categoria:SUV|Disponivel:true|PrecoPorDia:65000.0
+ID:5|Marca:BMW|Modelo:Série 5|Ano:2024|Categoria:PREMIUM|Disponivel:true|PrecoPorDia:85000.0

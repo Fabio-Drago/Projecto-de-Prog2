@@ -1,0 +1,1 @@
+Nome:Admin Principal|Email:admin@sistema.com|Senha:admin@123|Permissao:GERENTE

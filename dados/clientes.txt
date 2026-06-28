@@ -1,0 +1,5 @@
+ID:1|Nome:João Baptista Silva|Telefone:923456789|Email:joao.silva@email.com
+ID:2|Nome:Maria da Conceição|Telefone:912345678|Email:maria.conceicao@email.com
+ID:3|Nome:Carlos Eduardo Mendes|Telefone:934567890|Email:carlos.mendes@email.com
+ID:4|Nome:Ana Luísa Fernandes|Telefone:945678901|Email:ana.fernandes@email.com
+ID:5|Nome:Pedro António Lopes|Telefone:956789012|Email:pedro.lopes@email.com
